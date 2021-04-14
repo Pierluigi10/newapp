@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Forza Napoli",
+    "imagePath": "images/giacomofoto.png",
+    "paragraph": "Giacomo dice Forza Napoli",
+    "paragraph2": "Giacomo Ciao ciao"
+  },
+
+  {
+    "title": "Ciao Giacomo",
+    "imagePath": "images/fotomia.png",
+    "paragraph": "Giacomo dice ho fame"
+  },
+
+  {
+    "title": "Buonanotte",
+    "imagePath": "images/logo192.png",
+    "paragraph": "Giacomo dice buonanotte"
+  }
+]
