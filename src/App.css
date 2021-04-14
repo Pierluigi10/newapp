@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+
+}
+
+.giacomo {
+  border: 2px solid red;
+  background-color: black;
 }
